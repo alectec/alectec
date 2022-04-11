@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jamie (@alectec)
-- 👀 I’m interested in C#, Blazor, Azure
+- 👀 I’m interested in C#, Blazor, Azure, Python, Node.js
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on new & exciting opportunities
 - 📫 How to reach me jhurley@alectec.com
